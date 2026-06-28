@@ -13,14 +13,14 @@ A robust, Object-Oriented Java application designed to manage library operations
 ## 🏗️ Technical Architecture
 * **Language:** Java (JDK 8+)
 * **Architecture:** Object-Oriented Design (OOD)
-* **Core Logic:** * `Book`: Manages book details and availability state.
-    * `Member`: Handles member registration and manages a list of borrowed items.
+* **Core Logic:** * `Book`: Stores information about a book and its availability.
+    * `Member`: Stores member information and their list of borrowed books.
     * `Lib`: Acts as the central controller for library operations.
 
 ## 🛠️ Usage
 This application demonstrates core Java capabilities. Upon execution, the system:
 1. Initializes the library with a collection of books.
-2. Registers members.
+2. Registers new members.
 3. Processes borrowing requests with validation checks.
 4. Returns books and updates library inventory.
 5. Prints the final state of the library, including all books and member activities.
