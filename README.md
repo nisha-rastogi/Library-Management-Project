@@ -32,4 +32,5 @@ This application demonstrates core Java capabilities. Upon execution, the system
 
 ## 🖥️ Expected Console Output
 When the program runs, the system automatically initializes the state of the library and prints the following log:
+
 ![Console Output Preview](Console-Output.png)
