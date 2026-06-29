@@ -29,3 +29,6 @@ This application demonstrates core Java capabilities. Upon execution, the system
 1. Ensure you have Java installed.
 2. Compile the classes: `javac *.java`
 3. Run the main application: `java Main`
+
+## 🖥️ Expected Console Output
+When the program runs, the system automatically initializes the state of the library and prints the following log:
